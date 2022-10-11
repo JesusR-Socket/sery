@@ -1,0 +1,18 @@
+{
+    "account_phone": "+375298356727",
+    "account_api_id": 12225868,
+    "account_api_hash": "ba4a6dfd31791f14316312a46584437b",
+    "delay": 10,
+    "groups": [
+        {
+            "name": "test",
+            "inputs": [
+                "Crypto Daniel VIP"
+            ],
+            "outputs": [
+                "INSIDER_VIP"
+            ],
+            "words": []
+        }
+    ]
+}
